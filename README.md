@@ -6,4 +6,4 @@ In the `main` function of `VrChatOsc.kt`, the `/avatar/parameters/VRCEmote` is b
 
 | No Emote | Emote 3 | Emote 5 | 
 | ------------- | ------------- | ------------- |
-| <img src="Screenshots/0.png" width="200"> | <img src="Screenshots/3.png" width="200"> | <img src="Screenshots/5.png" width="200"> |
+| <img src="https://github.com/TheRishabhB/vrchat_osc_kotlin/blob/master/Screenshots/0.PNG?raw=true" width="400"> | <img src="https://raw.githubusercontent.com/TheRishabhB/vrchat_osc_kotlin/master/Screenshots/3.PNG" width="400"> | <img src="https://raw.githubusercontent.com/TheRishabhB/vrchat_osc_kotlin/master/Screenshots/5.PNG" width="400"> |
